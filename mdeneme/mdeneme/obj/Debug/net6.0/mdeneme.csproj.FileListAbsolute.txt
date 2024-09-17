@@ -1,0 +1,15 @@
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\bin\Debug\net6.0\mdeneme.exe
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\bin\Debug\net6.0\mdeneme.deps.json
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\bin\Debug\net6.0\mdeneme.runtimeconfig.json
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\bin\Debug\net6.0\mdeneme.dll
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\bin\Debug\net6.0\mdeneme.pdb
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.csproj.AssemblyReference.cache
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.AssemblyInfoInputs.cache
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.AssemblyInfo.cs
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.dll
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\refint\mdeneme.dll
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.pdb
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\mdeneme.genruntimeconfig.cache
+C:\Users\Melisa\source\repos\mdeneme\mdeneme\obj\Debug\net6.0\ref\mdeneme.dll
